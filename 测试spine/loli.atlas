@@ -1,0 +1,75 @@
+
+loli.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 2, 2
+  size: 82, 29
+  orig: 82, 29
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 440, 411
+  size: 92, 67
+  orig: 92, 67
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 306, 363
+  size: 132, 140
+  orig: 132, 140
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 211, 80
+  size: 83, 48
+  orig: 83, 48
+  offset: 0, 0
+  index: -1
+eye-dead
+  rotate: false
+  xy: 306, 309
+  size: 113, 52
+  orig: 113, 52
+  offset: 0, 0
+  index: -1
+eye-hit
+  rotate: false
+  xy: 306, 269
+  size: 117, 38
+  orig: 117, 38
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 65
+  size: 207, 176
+  orig: 207, 176
+  offset: 0, 0
+  index: -1
+gun
+  rotate: true
+  xy: 211, 130
+  size: 111, 63
+  orig: 111, 63
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 243
+  size: 302, 260
+  orig: 302, 260
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 33
+  size: 174, 30
+  orig: 174, 30
+  offset: 0, 0
+  index: -1
